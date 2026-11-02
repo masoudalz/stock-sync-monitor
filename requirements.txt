@@ -1,0 +1,9 @@
+requests
+pyodbc
+openpyxl
+browser-cookie3
+customtkinter
+
+# Optional: used by browser-assisted API/session extraction features.
+playwright
+websocket-client
